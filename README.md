@@ -8,7 +8,7 @@
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
-#### ### Rules of use 🚀
+### Rules of use 🚀
 
 - Run the clone repository in your terminal:
 
