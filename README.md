@@ -8,7 +8,7 @@
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
-#### ### Rules of use 🤜🏼🤛🏼
+#### ### Rules of use 🚀
 
 - Run the clone repository in your terminal:
 
@@ -17,11 +17,11 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 - Access the folder with the command:
 
-`cd dmb-tsys-spring-1611-ta27 `
+`cd dmb-tsys-spring-1611-ta27`
 
 - Open the repository with your IDE, remember to have the SQL service running
 
 - Update the dependencies and remember to create the databases
 
-
+🖱️ [See routes](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-spring-1611-ta27/)  
 
