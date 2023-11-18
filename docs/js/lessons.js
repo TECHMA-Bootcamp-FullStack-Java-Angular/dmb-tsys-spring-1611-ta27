@@ -10,10 +10,10 @@ export const lessons = [
       {
         numExercise: 1,
         title: '',
-        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="http://">ejemplo</a></li>
-        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="http://">ejemplo</a></li> 
+        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_1.png?raw=true">ejemplo</a></li>
+        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_2.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_3.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_4.png?raw=true">ejemplo</a></li> 
         <table class="table table-striped">
         <thead>
           <tr>
@@ -61,10 +61,10 @@ export const lessons = [
       {
         numExercise: 2,
         title: '',
-        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="http://">ejemplo</a></li>
-        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="http://">ejemplo</a></li> 
+        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_1.png?raw=true">ejemplo</a></li>
+        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_2.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_3.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_4.png?raw=true">ejemplo</a></li> 
         <table class="table table-striped">
         <thead>
           <tr>
@@ -104,10 +104,10 @@ export const lessons = [
       {
         numExercise: 3,
         title: '',
-        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="http://">ejemplo</a></li>
-        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="http://">ejemplo</a></li> 
+        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_1.png?raw=true">ejemplo</a></li>
+        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_2.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_3.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_4.png?raw=true">ejemplo</a></li> 
         <table class="table table-striped">
         <thead>
           <tr>
@@ -167,10 +167,11 @@ export const lessons = [
       {
         numExercise: 4,
         title: '',
-        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="http://">ejemplo</a></li>
-        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="http://">ejemplo</a></li> 
-        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="http://">ejemplo</a></li> 
+        description: `<small> <li> <b> PASO 1 </b>: Registrate en POST /user pasando el user y la password  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_1.png?raw=true">ejemplo</a></li>
+        <li> <b> PASO 2 </b>: Logeate en POST /login con la user y la password que has pasado enteriormente   <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_2.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 3 </b>: Una vez obtenido tu TOKEN que da accaeso a la API ya puedes accedes a las direrentes rutas colocando el TOKEN en el header de la perticon http o https  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_3.png?raw=true">ejemplo</a></li> 
+        <li> <b> PASO 4 </b>: Ya puedes acceder a los diferentes endpoints..  <a href="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1611-ta27/blob/main/docs/assets/PASO_4.png?raw=true">ejemplo</a></li> 
+       
         <table class="table table-striped">
         <thead>
           <tr>
