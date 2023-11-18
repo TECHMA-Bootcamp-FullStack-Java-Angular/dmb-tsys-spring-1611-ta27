@@ -4,7 +4,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-27-orange)  ![Java Version](https://img.shields.io/badge/SprintBoot-Raillway-red)
 
-# T27 - T27 - Spring REST JWT
+# T27 - Spring REST JWT
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
