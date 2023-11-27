@@ -6,7 +6,9 @@
 
 # T27 - Spring REST JWT
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
+
+🖱️ [See routes](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-spring-1611-ta27/)  
 
 ### Rules of use 🚀
 
@@ -23,5 +25,5 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 - Update the dependencies and remember to create the databases
 
-🖱️ [See routes](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-spring-1611-ta27/)  
+
 
